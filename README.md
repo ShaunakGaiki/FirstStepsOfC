@@ -1,0 +1,1 @@
+These are some programs that I made during Middle School while learning to code. Many of these were used to help me or some others in a way.
